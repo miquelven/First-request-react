@@ -5,7 +5,7 @@
 
 <br>
 
-####  Não utiliza 'AXIOS'.
+####  Utiliza 'AXIOS'.
 
 <br>
 <br>
